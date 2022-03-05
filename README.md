@@ -5,7 +5,9 @@ This repo demonstrates the use of [SNScrape](https://github.com/JustAnotherArchi
 The outcome of these experiments is to learn how to use the [SNScrape](https://github.com/JustAnotherArchivist/snscrape) library to scrape tweets from the Twitter API so as to automate reporting.
 
 ## Setup
-Clone the repo and setup a virtual environment. Then run the notebooks! 
+The assumption made is that you are familiar with setting up a Python virtual environment and installing the the requirements from the `requirements.txt` file.
+
+Once you have setup the Python environment, run the notebooks!
 
 ## NOTICE
 This is a work in progress. I am still working on the code and the documentation. I am also still learning how to use the library. I am happy to share my thoughts and suggestions.
