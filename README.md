@@ -1,5 +1,5 @@
-# Data Scraper Experiment
-This notebook demonstrates the use of [SNScrape](https://github.com/JustAnotherArchivist/snscrape) to scrape data from the Social Media sites like Twitter, Facebook and Instagram. 
+# Data Scraper Experiments
+This repo demonstrates the use of [SNScrape](https://github.com/JustAnotherArchivist/snscrape) to scrape data from the Social Media sites like Twitter, Facebook and Instagram. 
 
 ## Objectives
 The outcome of these experiments is to learn how to use the [SNScrape](https://github.com/JustAnotherArchivist/snscrape) library to scrape tweets from the Twitter API so as to automate reporting.
